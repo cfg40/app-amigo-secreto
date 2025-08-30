@@ -28,10 +28,16 @@ function mostrarLista (){
 }
 
 function sortearAmigo() {
+    if (amigos.length < 2) {
+        alert("Debe haber al menos 2 amigos para sortear");
+    }
+
+    else{
     let lista = document.getElementById("listaAmigos")
     let amigoSorteado = Math.floor(Math.random() * amigos.length);
     let mostrarResultado = document.getElementById("resultado");
     mostrarResultado.innerHTML = (`El amigo secreto sorteado es: ${amigos[amigoSorteado]}`);
     lista.innerHTML="";
     amigos=[];
+    }   
 }
