@@ -16,7 +16,7 @@ LA PERSONA ESCOGIDA SERÁ LA DENOMINADA "EL AMIGO SECRETO"
 
 **PUBLICACIÓN**
 - El proyecto está disponible en GitHub:
-Ver página en la web, enlace disponible aquí:
+Ver página en la web, enlace disponible aquí: https://cfg40.github.io/app-amigo-secreto/
 
 **TECONLOGÍAS USADAS**
 - HTML5
