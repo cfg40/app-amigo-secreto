@@ -1,0 +1,21 @@
+<h1>PROYECTO DEL AMIGO SECRETO</h1>
+
+**DESCRIPCIÓN DEL PROYECTO:**
+ESTE PROYECTO ESCOGE DE MANERA ALEATORIA EL NOMBRE DE UNA PERSONA A PARTIR DE UNA LISTA INGRESADA.
+LA PERSONA ESCOGIDA SERÁ LA DENOMINADA "EL AMIGO SECRETO"
+
+**¿CÓMO JUGAR?**
+- INGRESA EL NOMBRE DE UN AMIGO, LUEGO PRESIONA EL BOTÓN **AÑADIR**
+<img width="856" height="473" alt="image" src="https://github.com/user-attachments/assets/4426223b-3178-4608-adb0-bc531ef9173a" />
+
+- UNA VEZ QUE HAYAS INGRESADO POR LO MENOS 2 NOMBRES, PRESIONA EL BOTÓN **SORTEAR AMIGO** EL PROGRAMA ESCOGERÁ DE MANERA ALEATORIA UNO DE LOS NOMBRES QUE INGRESASTE
+  <img width="713" height="457" alt="image" src="https://github.com/user-attachments/assets/979c559d-e420-4a26-8077-e7bec53feb31" />
+
+**PUBLICACIÓN**
+- El proyecto está disponible en GitHub:
+Ver página en la web, enlace disponible aquí:
+
+**TECONLOGÍAS USADAS**
+- HTML5
+- CSS3
+- JavaScript 
